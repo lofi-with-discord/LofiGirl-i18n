@@ -1,11 +1,11 @@
 {
   "flag": "🇺🇸",
   "locale": "English",
-  "translaters": "번역자: `산업화#7031`",
+  "translaters": "Translater: `산업화#7031`",
 
   "dm_disallow": ":thinking: You can't listen music in DirectMessage ;(\nBut I can be your wordless companion \\:)",
 
-  "mention_call_1": "WhaT? WhO CAlLeD Me?",
+  "mention_call_1": "WhaT? WhO PiNg Me?",
   "mention_call_2": ":call_me: Yes, sir? ah, do you need some advice?\ncheck out the commands by doing `%1$shelp`!",
 
   "give_me_heart_title": "Plz press the :heart: to keep lofi girl alive!",
