@@ -51,6 +51,7 @@
   "play_force_no_react": "* `%1$s이동`으로 이동합니다",
   "play_force_no_react_answer": "%1$s이동",
   "play_force_fail": ":octagonal_sign: `%1$s`에서 이미 틀고 있어요!",
+  "play_theme_fail": ":octagonal_sign: 테마 설정이 손상되었어요... `%1$stheme`로 다시 설정해 주세요",
   "play_detail": "`%1$s`님의 스트림 - [YouTube 링크](%2$s)",
   "play_detail_footer": "*tip: %1$stheme 로 테마 변경",
   "play_success": ":tada: 틀었어요~",
@@ -62,7 +63,7 @@
   "theme_timeout": ":hourglass_flowing_sand: 앗, 선택시간이 지났어요",
   "theme_invalid": ":thinking: %1$s은 맞는 테마가 아니에요",
   "theme_success": ":ok_hand: 테마를 `%1$s`으로 설정했어요",
-  "theme_on_embed": "`%1$sset <테마번호>`로 테마를 변경합니다",
+  "theme_no_embed": "`%1$sset <테마번호>`로 테마를 변경합니다",
 
   "theme_play_detail": "`%1$s`님의 스트림 - [YouTube 링크](%2$s)",
   "theme_play_detail_footer": "*tip: %1$stheme 로 테마 변경",

@@ -51,6 +51,7 @@
   "play_force_no_react": "* `%1$smove` to move channel",
   "play_force_no_react_answer": "%1$smove",
   "play_force_fail": ":octagonal_sign: already playing on `%1$s`!",
+  "play_theme_fail": ":octagonal_sign: theme settings are corrupted... please reset your theme data with `%1$stheme`",
   "play_detail": "`%1$s`'s stream - [YouTube link](%2$s)",
   "play_detail_footer": "*tip: %1$stheme to change theme",
   "play_success": ":tada: successed!",
@@ -62,7 +63,7 @@
   "theme_timeout": ":hourglass_flowing_sand: oops, timeout!",
   "theme_invalid": ":thinking: %1$s is wrong theme",
   "theme_success": ":ok_hand: set theme to `%1$s`",
-  "theme_on_embed": "`%1$sset <테마번호>` to change theme",
+  "theme_no_embed": "`%1$sset <테마번호>` to change theme",
 
   "theme_play_detail": "`%1$s`'s stream - [YouTube link](%2$s)",
   "theme_play_detail_footer": "*tip: change theme with %1$stheme",
