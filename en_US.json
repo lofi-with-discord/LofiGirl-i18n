@@ -71,5 +71,8 @@
   "theme_play_force_question": ":grey_question: already turned on at `%1$s`, do you want change theme immediately?\n*if you don't want it, theme will changed when all listeners are left",
   "theme_play_force_no_react": "* switch theme with pressing `%1$schange`",
   "theme_play_force_no_react_answer": "%1$schange",
-  "theme_play_force_fail": ":grey_exclamation: already turned on at `%1$s`, I'll change theme when all listeners are left"
+  "theme_play_force_fail": ":grey_exclamation: already turned on at `%1$s`, I'll change theme when all listeners are left",
+
+  "locale_help": "changes language settings",
+  "locale_success": ":ok_hand: language settings are changed"
 }

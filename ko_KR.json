@@ -71,5 +71,8 @@
   "theme_play_force_question": ":grey_question: `%1$s`에서 이미 틀고 있어요, 재생중인 테마를 지금 바꿀까요?\n*아닐경우 모든 청취자가 음성채널을 나갔을때 테마를 변경합니다",
   "theme_play_force_no_react": "* `%1$s바꾸기`로 테마를 지금 바꿉니다",
   "theme_play_force_no_react_answer": "%1$s바꾸기",
-  "theme_play_force_fail": ":grey_exclamation: `%1$s`에서 이미 틀고 있어요, 모든 청취자가 음성채널을 나갔을때 테마를 변경할깨요"
+  "theme_play_force_fail": ":grey_exclamation: `%1$s`에서 이미 틀고 있어요, 모든 청취자가 음성채널을 나갔을때 테마를 변경할깨요",
+
+  "locale_help": "사용언어를 설정할 수 있어요",
+  "locale_success": ":ok_hand: 한국어로 변경했어요!"
 }
