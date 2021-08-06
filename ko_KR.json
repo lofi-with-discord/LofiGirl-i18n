@@ -23,6 +23,8 @@
 	"mark_not_joinable": ":microphone2: 아앗.. 제가 그 음성 채널에 들어갈 수가 없어요ㅠㅠ",
 	"mark_not_speakable": ":zipper_mouth: 전 그 음성 채널에서 말을 할 수 있는 권한이 없어요ㅠㅠ",
 	"mark_success": ":ok_hand: `%1$s`에서 재생하는 것으로 설정했어요!\n*tip: `%2$splay`로 바로 재생할 수 있어요\n*tip: `%2$stheme`로 다른 음악 테마를 선택할 수 있어요",
+	"unmark_no_permission": ":rolling_eyes: 음... `%1$s`님은 채널을 설정할 권한이 없어요!\n이 명령어를 사용하려면 적어도 `채널 관리` 권한을 가지고 있어야 해요",
+	"unmark_success": "채널 설정을 초기화 했어요! `%1$smark`로 다시 설정 할 수 있어요.",
 	"ping_help": "통신 지연 속도를 측정하고 보여줘요",
 	"ping_success": ":ping_pong: 지연시간: **%1$s밀리초**",
 	"play_help": "정해진 테마의 Lo-Fi 스트림을 재생해줘요",

@@ -23,6 +23,8 @@
   "mark_not_joinable": ":microphone2: um.. I can't get into that voice channel. ;(",
   "mark_not_speakable": ":zipper_mouth: I don't have permission to speak on that voice channel. ;(",
   "mark_success": ":ok_hand: I set it to play it at `%1$s`!\n*tip: you can play right now with `%2$splay`\n*tip: you can choose different theme with `%2$stheme`",
+  "unmark_no_permission": ":rolling_eyes: uh... `%1$s`, you don't have permissions to set channels!\nto use this command, you must have at least `manage channels` permissions to use",
+  "unmark_success": "channel configuration has been deleted. you can set configuration with `%1$smark` command again.",
   "ping_help": "Measures and show us the speed of the communication delay.",
   "ping_success": ":ping_pong: Delay: **%1$sms**",
   "play_help": "Play a Lo-Fi stream with a set theme",
