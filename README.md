@@ -33,5 +33,5 @@ If you contribute to multilingual support through this repository tree, it will 
 If you would like to contribute, please send us PR after being well informed of the following:
 
 * Please keep the Language ID `<Country>_<Language:Capital Letter>`. (Example: 'ko_KR', 'en_US')
-* Please translate 'README.md' as well. Start by adding `## <flag> <language ID>` at the bottom of this document.
+* Please translate `README.md` as well. Start by adding `## <flag> <language ID>` at the bottom of this document.
 * For the translation file, you can create and create the file `<language ID>.json`.
