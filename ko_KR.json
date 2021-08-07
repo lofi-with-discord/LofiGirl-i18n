@@ -53,5 +53,6 @@
 	"theme_play_force_fail": ":grey_exclamation: `%1$s`에서 이미 틀고 있어요, 모든 청취자가 음성채널을 나갔을때 테마를 변경할깨요",
 	"locale_help": "사용언어를 설정할 수 있어요",
 	"locale_success": "한국어로 설정했어요!",
-	"locale_success_msg": "사용자 초기 설정이 완료되었습니다. 명령어를 다시 입력해 주세요!"
+	"locale_success_msg": "사용자 초기 설정이 완료되었습니다. 명령어를 다시 입력해 주세요!",
+	"unmark_help": "채널 설정을 취소 할 수 있어요"
 }
