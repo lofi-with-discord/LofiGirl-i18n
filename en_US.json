@@ -53,5 +53,6 @@
   "theme_play_force_fail": ":grey_exclamation: already turned on at `%1$s`, I'll change theme when all listeners are left",
   "locale_help": "changes language settings",
   "locale_success": "language set",
-  "locale_success_msg": "registration completed successfully. please re-run command to continue"
+  "locale_success_msg": "registration completed successfully. please re-run command to continue",
+  "unmark_help": "You can cancel the channel preset"
 }
