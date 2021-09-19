@@ -8,6 +8,7 @@
 	"help_support": "공식 지원서버",
 	"help_github": "주러 가기 (github)",
 	"help_koreanbots": "주러 가기 (koreanbots)",
+	"help_terms": "서비스이용약관 & 개인정보처리방침",
 	"leave_help": "재생중인 스트림을 멈추고 음성 채널에서 나가줘요",
 	"leave_no_voice": ":thinking: 이미 아무 채널에도 들어가있지 않아요!",
 	"leave_success": ":hand_splayed: 스트림을 멈추고 나왔어요~",

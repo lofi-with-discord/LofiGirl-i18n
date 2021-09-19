@@ -8,6 +8,7 @@
   "help_support": "Supports",
   "help_github": "Github",
   "help_koreanbots": "Give me heart!",
+  "help_terms": "Terms of Service & Privacy Policy (korean)",
   "leave_help": "stops the ongoing stream and leaves the voice channel",
   "leave_no_voice": ":thinking: I'm not on any channels already!",
   "leave_success": ":hand_splayed: I stopped ongoing stream and left the channel!",
