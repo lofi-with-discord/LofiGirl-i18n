@@ -55,5 +55,13 @@
   "locale_help": "changes language settings",
   "locale_success": "language set",
   "locale_success_msg": "registration completed successfully. please re-run command to continue",
-  "unmark_help": "You can cancel the channel preset"
+  "unmark_help": "You can cancel the channel preset",
+	"doctor_help": "Verify that the bot has been granted sufficient privileges.",
+	"doctor_no_voice": ":loudspeaker: Enter the voice channel you want to play and try again",
+	"perms_VIEW_CHANNEL": "View Channel",
+	"perms_CONNECT": "Connect",
+	"perms_SPEAK": "Speak",
+	"perms_MUTE_MEMBERS": "Mute Members",
+	"perms_MANAGE_CHANNELS": "Manage Channel",
+	"perms_MOVE_MEMBERS": "Move Members"
 }

@@ -55,5 +55,13 @@
 	"locale_help": "사용언어를 설정할 수 있어요",
 	"locale_success": "한국어로 설정했어요!",
 	"locale_success_msg": "사용자 초기 설정이 완료되었습니다. 명령어를 다시 입력해 주세요!",
-	"unmark_help": "채널 설정을 취소 할 수 있어요"
+	"unmark_help": "채널 설정을 취소 할 수 있어요",
+	"doctor_help": "필요한 권한이 부여되어 있는지 확인할 수 있어요",
+	"doctor_no_voice": ":loudspeaker: 재생할 음성 채널에 들어간후 다시 시도해 주세요",
+	"perms_VIEW_CHANNEL": "채널 보기",
+	"perms_CONNECT": "연결",
+	"perms_SPEAK": "말하기",
+	"perms_MUTE_MEMBERS": "멤버들의 마이크 음소거하기",
+	"perms_MANAGE_CHANNELS": "채널 관리",
+	"perms_MOVE_MEMBERS": "멤버 이동"
 }
